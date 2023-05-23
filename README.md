@@ -1,12 +1,12 @@
 <div align="center">
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="docs/source/_static/img/logo/logo_dark_full.svg">
+ <source media="(prefers-color-scheme: dark; max-width: 10px)" srcset="docs/source/_static/img/logo/logo_dark_full.svg">
  <source media="(prefers-color-scheme: light)" srcset="docs/source/_static/img/logo/logo_light.svg">
- <img alt="YOUR-ALT-TEXT" src="docs/source/_static/img/logo/logo_dark.svg">
+ <img alt="YOUR-ALT-TEXT" src="docs/source/_static/img/logo/logo_dark.svg" width="80%">
 </picture>
-<hr width="50%" color="green" size="50px" />
-<img src="https://img.shields.io/static/v1?message=HOME&color=rgba(0,105,0,1)&style=for-the-badge&label=%20" alt="HOMEPP">
-<img src="https://img.shields.io/static/v1?message=INTRO&color=rgba(0,105,0,0.9)&style=for-the-badge&label=%20">
+<hr>
+<img src="https://img.shields.io/static/v1?message=HOME&color=rgba(0,105,0,1)&style=for-the-badge&label=%20" title="Homepage">
+<img src="https://img.shields.io/static/v1?message=INTRO&color=rgba(0,105,0,0.9)&style=for-the-badge&label=%20" title="Introduction: Learn more about this project and thrg wg wrg   wrwrg wrgwg">
 <img src="https://img.shields.io/static/v1?message=INSTALL&color=rgba(0,105,0,0.8)&style=for-the-badge&label=%20">
 <img src="https://img.shields.io/static/v1?message=MANUAL&color=rgba(0,105,0,0.7)&style=for-the-badge&label=%20">
 <img src="https://img.shields.io/static/v1?message=API&color=rgba(0,105,0,0.6)&style=for-the-badge&label=%20">
@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/static/v1?message=CONTRIBUTE&color=rgba(0,105,0,0.3)&style=for-the-badge&label=%20">
 <img src="https://img.shields.io/static/v1?message=CITE&color=rgba(0,105,0,0.3)&style=for-the-badge&label=%20">
 <img src="https://img.shields.io/static/v1?message=ABOUT&color=rgba(0,105,0,0.3)&style=for-the-badge&label=%20">
-<hr width="50%" color="green" size="50px" />
+<hr>
 <p align="justify">
 SciPy is built to work with NumPy arrays, and provides many user-friendly and efficient numerical routines, such as routines for numerical integration and optimization. Together, they run on all popular operating systems, are quick to install, and are free of charge. NumPy and SciPy are easy to use, but powerful enough to be depended upon by some of the world's leading scientists and engineers. If you need to manipulate numbers on a computer and display or publish the results, give SciPy a try!
 </p>
-<hr width="50%" color="green" size="50px" />
+<hr width="100%" color="green" size="500em" />
 <img src="https://img.shields.io/static/v1?message=HOME&color=rgba(0,105,0,1)&style=for-the-badge&label=%20" alt="HOMEPP">
 <img src="https://img.shields.io/static/v1?message=INTRO&color=rgba(0,105,0,0.9)&style=for-the-badge&label=%20">
 <img src="https://img.shields.io/static/v1?message=INSTALL&color=rgba(0,105,0,0.8)&style=for-the-badge&label=%20">

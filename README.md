@@ -7,7 +7,7 @@
 <br><br>
 <h2><i>Effortlessly Create, Document, Test, Deploy, and Maintain Python Projects</i></h2>
 
-<img src="https://img.shields.io/static/v1?message=HOME&color=rgba(0,105,0,1)&style=for-the-badge&label=%20">
+<img src="https://img.shields.io/static/v1?message=HOME&color=rgba(0,105,0,1)&style=for-the-badge&label=%20" alt="HOMEPP">
 <img src="https://img.shields.io/static/v1?message=INTRO&color=rgba(0,105,0,0.9)&style=for-the-badge&label=%20">
 <img src="https://img.shields.io/static/v1?message=INSTALL&color=rgba(0,105,0,0.8)&style=for-the-badge&label=%20">
 <img src="https://img.shields.io/static/v1?message=MANUAL&color=rgba(0,105,0,0.7)&style=for-the-badge&label=%20">

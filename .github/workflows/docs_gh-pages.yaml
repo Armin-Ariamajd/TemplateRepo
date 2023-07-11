@@ -9,8 +9,8 @@ on:
     inputs:
       artifact-name:
         description: >-
-          Name of the artifact containing the HTML files. 
-          This artifact must have been created in the caller workflow 
+          Name of the artifact containing the HTML files.
+          This artifact must have been created in the caller workflow
           before running this workflow.
         default: 'Docs - HTML Build (GH Pages)'
         required: false
@@ -51,4 +51,3 @@ jobs:
         id: deployment
         # https://github.com/actions/deploy-pages
         uses: actions/deploy-pages@v2
-

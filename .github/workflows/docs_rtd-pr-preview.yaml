@@ -30,8 +30,8 @@ jobs:
 
       - name: 'Output metadata'
         run: |
-          echo "ReadTheDocs Name: ${{ fromJson(steps.get_metadata.outputs.json).readthedocs.name }}" 
-  
+          echo "ReadTheDocs Name: ${{ fromJson(steps.get_metadata.outputs.json).readthedocs.name }}"
+
 
   pull-request-links:
     name: 'Build'

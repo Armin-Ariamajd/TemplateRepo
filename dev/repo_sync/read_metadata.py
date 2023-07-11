@@ -1,6 +1,8 @@
+# Standard libraries
 import importlib.util
-import sys
 import json
+import sys
+
 
 _name = "metadata"
 _spec = importlib.util.spec_from_file_location(_name, "metadata/variables/__init__.py")
@@ -27,4 +29,3 @@ def as_json_str():
 
 if __name__ == "__main__":
     print(as_json_str())
-

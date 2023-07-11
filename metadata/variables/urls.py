@@ -1,7 +1,9 @@
 """URLs relevant to the project.
 """
 
+
 from . import project
+
 
 HOMEPAGE: str = f"https://.rtfd.io"
 
